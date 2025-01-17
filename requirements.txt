@@ -1,0 +1,11 @@
+tensorflow == 2.18.0
+numpy == 1.26.4
+pandas
+scikit-learn
+streamlit
+matplotlib
+python-dotenv
+seaborn
+mlflow
+catboost
+xgboost
